@@ -6,7 +6,7 @@ Table of Contents:
 - [Data](#data)
 - [EDA](#eda)
 - [Distilbert for Binary Classification](#model)
-- [Front End on Heroku](#results)
+- [Model Evaluation for Fine-tuned Distilbert](#results)
 
 ## Task
 The task of this project was to weed out false public health claims from true claims using transfer learning with a pretrained transformer.
