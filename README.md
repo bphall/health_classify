@@ -1,4 +1,4 @@
-# Transfer Learning For Health Data Text Classification
+# Transfer Learning For Health Claims Text Classification
 by Brayton Hall
 
 Table of Contents:
